@@ -1,16 +1,19 @@
-## Hi there 👋
+# Olá, eu sou Bruno! 👋
 
-<!--
-**BrunoKirovs/BrunoKirovs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/brunojuan/)
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-%23D44638?style=for-the-badge&logo=gmail&logoColor=white)](mailto:seuemail@gmail.com)
+[![GitHub Badge](https://img.shields.io/badge/-GitHub-%23181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/BrunoKirovs)
 
-Here are some ideas to get you started:
+## 🌍 **Sobre mim**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Atualmente atuante como Analista de Sistemas JR , com experiência em infraestrutura/suporte técnico e sistemas, capaz de trabalhar bem em equipe, superando a produtividade esperada. Possuo conhecimentos de sistemas utilizados na Bolsa em principal Sinacor, Inoa e plataformas de trade e pós trade. Possuo conhecimento avançado em atividades de mapeamento, desenvolvimento e homologação.
+
+Experiência com as tecnologias: Python, Git Hub, JavaScript, C#, SQL, MySQL, Node.js, Java, React, Node.js, Cypress
+
+---
+
+<div>
+<a href="https://github.com/BrunoKirovs">
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=seu-usuário-aqui&layout=compact&langs_count=7&theme=dracula"/>
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=seu-usuário-aqui&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+</div>
