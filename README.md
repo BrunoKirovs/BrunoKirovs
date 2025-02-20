@@ -1,10 +1,14 @@
-# Bruno 
-
-## Hello, Devs!!
+# Oi eu sou Bruno!
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/brunojuan/)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-%23D44638?style=for-the-badge&logo=gmail&logoColor=white)](mailto:seuemail@gmail.com)
 [![GitHub Badge](https://img.shields.io/badge/-GitHub-%23181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/BrunoKirovs)
+
+<div>
+<a href="https://github.com/BrunoKirovs">
+<img loading="lazy" height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BrunoKirovs&layout=compact&langs_count=7&theme=dracula"/>
+<img loading="lazy" height="170em" src="https://github-readme-stats.vercel.app/api?username=BrunoKirovs&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+</div>
 
 ## 🌍 **Sobre mim**
 
@@ -28,8 +32,3 @@ Experiência com as tecnologias: Python, GitHub, JavaScript, C#, SQL, MySQL, Nod
 <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" width="40" height="40" />
 <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/selenium/selenium-original.svg" width="40" height="40" />
                                                                                              
-<div>
-<a href="https://github.com/BrunoKirovs">
-<img loading="lazy" height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BrunoKirovs&layout=compact&langs_count=7&theme=dracula"/>
-<img loading="lazy" height="170em" src="https://github-readme-stats.vercel.app/api?username=BrunoKirovs&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-</div>
