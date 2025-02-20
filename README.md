@@ -9,7 +9,9 @@
 
 Atualmente atuante como Analista de Sistemas JR , com experiência em infraestrutura/suporte técnico e sistemas, capaz de trabalhar bem em equipe, superando a produtividade esperada. Possuo conhecimentos de sistemas utilizados na Bolsa em principal Sinacor, Inoa e plataformas de trade e pós trade. Possuo conhecimento avançado em atividades de mapeamento, desenvolvimento e homologação.
 
-Experiência com as tecnologias: Python, Git Hub, JavaScript, C#, SQL, MySQL, Node.js, Java, React, Cypress
+## Ferramentas e Tecnologias
+
+Experiência com as tecnologias: Python, GitHub, JavaScript, C#, SQL, MySQL, Node.js, Java, React, Cypress
 
 <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/> <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" width="40" height="40" />
 <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width="40" height="40" />
@@ -18,6 +20,8 @@ Experiência com as tecnologias: Python, Git Hub, JavaScript, C#, SQL, MySQL, No
 <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg" width="40" height="40" />
 <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="40" height="40" />
 <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="40" height="40" />
+
+## Estou aprendendo
 <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cypressio/cypressio-original.svg" width="40" height="40" />
                                                                    
 ---
