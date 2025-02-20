@@ -1,4 +1,4 @@
-# Bruno 
+# Bruno <div class="tenor-gif-embed" data-postid="22108526" data-share-method="host" data-aspect-ratio="0.6" data-width="100%"><a href="https://tenor.com/view/broly-boy-broly-gif-22108526">Broly Boy GIF</a>from <a href="https://tenor.com/search/broly+boy-gifs">Broly Boy GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
 ## Hello, Devs!!
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/brunojuan/)
