@@ -28,7 +28,7 @@ Experiência com as tecnologias: Python, GitHub, JavaScript, C#, SQL, MySQL, Nod
 <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" width="40" height="40" />
 <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/selenium/selenium-original.svg" width="40" height="40" />
                                                                                              
-![Snake animation](https://github.com/BrunoKirovs/BrunoKirovs/blob/output/github-contribution-grid-snake.svg)
+![Descrição do Gif](https://tenor.com/pt-BR/view/broly-boy-broly-gif-22108526)
 
 <div>
 <a href="https://github.com/BrunoKirovs">
