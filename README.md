@@ -29,10 +29,7 @@ Experiência com as tecnologias: Python, GitHub, JavaScript, C#, SQL, MySQL, Nod
 <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/selenium/selenium-original.svg" width="40" height="40" />
                                                                                              
 ---
-<div class="tenor-gif-embed" data-postid="22108526" data-share-method="host" data-aspect-ratio="0.6" data-width="100%">
-  <a href="https://tenor.com/view/broly-boy-broly-gif-22108526">Broly Boy GIF</a>from <a href="https://tenor.com/search/broly+boy-gifs">Broly Boy GIFs</a>
-</div> 
-<script type="text/javascript" async src="https://tenor.com/embed.js"></script>
+<div class="tenor-gif-embed" data-postid="22108526" data-share-method="host" data-aspect-ratio="0.6" data-width="100%"><a href="https://tenor.com/view/broly-boy-broly-gif-22108526">Broly Boy GIF</a>from <a href="https://tenor.com/search/broly+boy-gifs">Broly Boy GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
 ---
 <div>
 <a href="https://github.com/BrunoKirovs">
