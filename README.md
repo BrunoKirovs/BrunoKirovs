@@ -1,11 +1,9 @@
 # 💻Bruno Juan
 
-**`Desenvolvedor Backend, Desenvolvedor Frontend, QA`**
+**`Desenvolvedor Backend, QA`**
 
 Me chamo Bruno Juan, tenho 26 anos e sou de São Paulo. Sou formado em Ciências da Computação e atualmente estou em processo de transição de carreira.
-Sou Analista de Sistemas Jr com experiência em infraestrutura, suporte técnico e desenvolvimento de software. Atuei por mais de 3 anos no mercado financeiro, com conhecimento dos principais sistemas utilizados em corretoras, como Sinacor e Inoa, além de experiência em monitoramento, auditoria e segurança.
-
-Sou movido por desafios que exigem resiliência, aprendizado contínuo e trabalho em equipe, buscando sempre criar soluções robustas, escaláveis e seguras. Meu objetivo é crescer como desenvolvedor, aplicando minha experiência tanto em tecnologias modernas de front-end e back-end, quanto no mercado financeiro.
+Sou Analista de Sistemas Jr com experiência em infraestrutura, suporte técnico e desenvolvimento de software. Atuei por mais de 4 anos no mercado financeiro, com conhecimento dos principais sistemas utilizados em corretoras, como Sinacor e Inoa, além de experiência em monitoramento, auditoria e segurança.
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/brunojuan/)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-%23D44638?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bruno.kirovs@gmail.com)
@@ -33,6 +31,13 @@ Sou movido por desafios que exigem resiliência, aprendizado contínuo e trabalh
 ![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)
 ![Rancher](https://img.shields.io/badge/Rancher-0075A8?style=for-the-badge&logo=rancher&logoColor=white)
 
+### 📊 Estátisticas
+<div>
+<a href="https://github.com/BrunoKirovs">
+<img loading="lazy" height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BrunoKirovs&layout=compact&langs_count=7&theme=dracula"/>
+<img loading="lazy" height="170em" src="https://github-readme-stats.vercel.app/api?username=BrunoKirovs&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+</div>
+  
 <div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg">
@@ -41,10 +46,4 @@ Sou movido por desafios que exigem resiliência, aprendizado contínuo e trabalh
   </picture>
 </div>
 
-### 📊 Estátisticas
-<div>
-<a href="https://github.com/BrunoKirovs">
-<img loading="lazy" height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BrunoKirovs&layout=compact&langs_count=7&theme=dracula"/>
-<img loading="lazy" height="170em" src="https://github-readme-stats.vercel.app/api?username=BrunoKirovs&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-</div>
                                                                                           
