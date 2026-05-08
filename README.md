@@ -1,4 +1,4 @@
-# 👨‍💻 Bruno Juan
+# 👨‍💻 Olá 👋, Meu nome é Bruno Juan
 
 Analista de Sistemas | Backend Developer | QA Automation
 
