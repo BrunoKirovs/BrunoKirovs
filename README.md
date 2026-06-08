@@ -4,8 +4,6 @@ Analista de Sistemas | Backend Developer | QA Automation
 
 Sou Analista de Sistemas com experiência em infraestrutura, suporte técnico e desenvolvimento backend, atuando principalmente em ambientes corporativos e no mercado financeiro.
 
-Tenho vivência com monitoramento, auditoria, sustentação de ambientes e integração de sistemas utilizados por corretoras, incluindo plataformas como Sinacor e Inoa.
-
 ## 🌐 Onde me encontrar
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/brunojuan/)
